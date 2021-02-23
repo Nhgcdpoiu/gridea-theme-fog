@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nhgcdpoiu.github.io</id>
     <title>Hundred06&apos;s Blog</title>
-    <updated>2021-02-23T08:27:49.018Z</updated>
+    <updated>2021-02-23T12:22:29.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nhgcdpoiu.github.io"/>
     <link rel="self" href="https://Nhgcdpoiu.github.io/atom.xml"/>
@@ -17,32 +17,46 @@
         </link>
         <updated>2021-02-22T08:41:08.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://Nhgcdpoiu.github.io/post-images/1614056318855.jpg" alt="" loading="lazy"></figure>
-<!-- more -->
-<p><strong><strong>前言</strong></strong><br>
-ps：本文适合纯小白</p>
+<p><strong><strong>前言</strong></strong></p>
+<p>ps：本文适合纯小白</p>
 <p>前些天看到一朋友搭建了自己的博客，心血来潮，也想搞一个（闲得慌），于是就有了这篇文章。<br>
 网上教程极其之多（暗示大佬们请忽视这篇文章）。</p>
 <p><strong>搭建方法</strong></p>
 <ol>
-<li>服务器+控制台+面板+数据库+wordpress，<br>
-优点：动态blog，具移动客户端，随时写作</li>
-<li>通过github+GitHub pages+hexo或Jekyll或huge等，<br>
-优点：可定制性强，无数据库，全程免费。</li>
-<li>第三方平台，wix,sxl,凡科等<br>
-优点：不用任何基础</li>
+<li>
+<p>服务器+控制台+面板+数据库+wordpress，<br>
+优点：动态blog，具移动客户端，随时写作</p>
+</li>
+<li>
+<p>通过github+GitHub pages+hexo或Jekyll或huge等，<br>
+优点：可定制性强，无数据库，全程免费。</p>
+</li>
+<li>
+<p>第三方平台，wix,sxl,凡科等<br>
+优点：不用任何基础</p>
+</li>
 </ol>
 <p>BUT  &gt;&gt;&gt;as a 学生党（白嫖怪），<br>
-<img src="https://Nhgcdpoiu.github.io/post-images/1614015985749.jpg" alt="" loading="lazy"><br>
-AND &gt;&gt;&gt;人类进步当然得偷懒，<br>
+<img src="https://Nhgcdpoiu.github.io/post-images/1614015985749.jpg" alt="" loading="lazy"></p>
+<p>AND &gt;&gt;&gt;人类进步当然得偷懒，<br>
 SO &gt;&gt;&gt;有了gridea，鱼和熊掌兼得乎！</p>
 <p><strong>搭建</strong></p>
 <ol>
-<li><a href="https://github.com/" target="_blank"><em>注册github</em></a></li>
-<li>创建GitHub仓库（Repository）</li>
-<li>创建令牌（token），勾选rope权限</li>
-<li><a href="https://gridea.dev/" target="_blank"><em>下载gridea</em></a></li>
-<li>配置</li>
+<li>
+<p><a href="https://github.com/" target="_blank"><em>注册github</em></a></p>
+</li>
+<li>
+<p>创建GitHub仓库（Repository）</p>
+</li>
+<li>
+<p>创建令牌（token），勾选rope权限</p>
+</li>
+<li>
+<p><a href="https://gridea.dev/" target="_blank"><em>下载gridea</em></a></p>
+</li>
+<li>
+<p>配置</p>
+</li>
 </ol>
 ]]></content>
     </entry>
