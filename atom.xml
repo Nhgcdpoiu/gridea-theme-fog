@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nhgcdpoiu.github.io</id>
     <title>Hundred06&apos;s Blog</title>
-    <updated>2021-02-24T03:16:30.368Z</updated>
+    <updated>2021-02-24T04:29:49.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nhgcdpoiu.github.io"/>
     <link rel="self" href="https://Nhgcdpoiu.github.io/atom.xml"/>
@@ -16,51 +16,31 @@
         <link href="https://Nhgcdpoiu.github.io/post/bo-ke-da-jian/">
         </link>
         <updated>2021-02-22T08:41:08.000Z</updated>
-        <summary type="html"><![CDATA[<div style="width:500px; height:3000px; line-height:100px; border: red solid 1px;">
+        <summary type="html"><![CDATA[<div style="width:750px; height:3000px; line-height:100px; bordder: none solid 100px;">
 ]]></summary>
-        <content type="html"><![CDATA[<div style="width:500px; height:3000px; line-height:100px; border: red solid 1px;">
+        <content type="html"><![CDATA[<div style="width:750px; height:3000px; line-height:100px; bordder: none solid 100px;">
 <!-- more -->
-****前言****
-<p>ps：本文适合纯小白</p>
-<p>前些天看到一朋友搭建了自己的博客，心血来潮，也想搞一个（闲得慌），于是就有了这篇文章。<br>
+  ****前言****
+<p>    ps：本文适合纯小白</p>
+<p>     前些天看到一朋友搭建了自己的博客，心血来潮，也想搞一个（闲得慌），于是就有了这篇文章。<br>
 网上教程极其之多（暗示大佬们请忽视这篇文章）。</p>
-<p><strong>搭建方法</strong></p>
-<ol>
-<li>
-<p>服务器+控制台+面板+数据库+wordpress，<br>
+<p>     <strong>搭建方法</strong></p>
+<p>    1. 服务器+控制台+面板+数据库+wordpress，<br>
 优点：动态blog，具移动客户端，随时写作</p>
-</li>
-<li>
-<p>通过github+GitHub pages+hexo或Jekyll或huge等，<br>
+<p>     2. 通过github+GitHub pages+hexo或Jekyll或huge等，<br>
 优点：可定制性强，无数据库，全程免费。</p>
-</li>
-<li>
-<p>第三方平台，wix,sxl,凡科等<br>
+<p>    3.  第三方平台，wix,sxl,凡科等<br>
 优点：不用任何基础</p>
-</li>
-</ol>
-<p>BUT  &gt;&gt;&gt;as a 学生党（白嫖怪），<br>
+<p>    BUT  &gt;&gt;&gt;as a 学生党（白嫖怪），<br>
 <img src="https://Nhgcdpoiu.github.io/post-images/1614015985749.jpg" alt="" loading="lazy"></p>
-<p>AND &gt;&gt;&gt;人类进步当然得偷懒，<br>
-SO &gt;&gt;&gt;有了gridea，鱼和熊掌兼得乎！</p>
-<p><strong>搭建</strong></p>
-<ol>
-<li>
-<p><a href="https://github.com/" target="_blank"><em>注册github</em></a></p>
-</li>
-<li>
-<p>创建GitHub仓库（Repository）</p>
-</li>
-<li>
-<p>创建令牌（token），勾选rope权限</p>
-</li>
-<li>
-<p><a href="https://gridea.dev/" target="_blank"><em>下载gridea</em></a></p>
-</li>
-<li>
-<p>配置</p>
-</li>
-</ol>
+<p>     AND &gt;&gt;&gt;人类进步当然得偷懒，<br>
+     SO &gt;&gt;&gt;有了gridea，鱼和熊掌兼得乎！</p>
+<p>    <strong>搭建</strong><br>
+    1. <a href="https://github.com/" target="_blank"><em>注册github</em></a><br>
+    2. 创建GitHub仓库（Repository）<br>
+    3. 创建令牌（token），勾选rope权限<br>
+    4. 4. <a href="https://gridea.dev/" target="_blank"><em>下载gridea</em></a><br>
+    5.  配置</p>
 </div>]]></content>
     </entry>
 </feed>
