@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nhgcdpoiu.github.io</id>
     <title>Hundred06&apos;s Blog</title>
-    <updated>2021-03-07T06:47:11.532Z</updated>
+    <updated>2021-03-13T16:52:50.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nhgcdpoiu.github.io"/>
     <link rel="self" href="https://Nhgcdpoiu.github.io/atom.xml"/>
@@ -10,6 +10,95 @@
     <logo>https://Nhgcdpoiu.github.io/images/avatar.png</logo>
     <icon>https://Nhgcdpoiu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Hundred06&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[行列式]]></title>
+        <id>https://Nhgcdpoiu.github.io/post/xing-lie-shi/</id>
+        <link href="https://Nhgcdpoiu.github.io/post/xing-lie-shi/">
+        </link>
+        <updated>2021-03-13T09:24:48.000Z</updated>
+        <summary type="html"><![CDATA[<p>rows and columns</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>rows and columns</p>
+<!-- more -->
+<ol>
+<li>
+<p>主对角-负对角</p>
+</li>
+<li>
+<p>主对角线以下变为0（1某行or列加上或减去另一行的几倍，行列式不变；2某行or列乘k，等于K乘此行列式;3互换两行or列，行列式变号）</p>
+</li>
+<li>
+<p>主对角线为x，其余为a。D=（x-a）^n-1【x+（n-1）a】</p>
+</li>
+<li>
+<p>第一行全为1，其余列为次方递增的（范德蒙德行列式）D=（Xn-Xn_1）（Xn-Xn_2）（Xn-Xn_3）（Xn-X1）*（Xn_1-Xn_2）（Xn_1-Xn_3）······（Xn_1-X1）·（X2-X1）</p>
+</li>
+<li>
+<p>两行or列相同或成比例时，行列式为0<br>
+某行or列为两项相加减时，行列式可拆为两个行列式相加减</p>
+</li>
+<li>
+<p>余子式与代数余子式（去掉对应行列得余子式，余子式*【-1】^【r+c】得代数余子式）</p>
+</li>
+<li>
+<p>D=ai1·Ai1+ai2·Ai2+ai3·Ai3+······+ain·Ain（第i行）A为代数余子式<br>
+D=a1j·A1j+a2j·A2j+a3j·A3j+······+a3j·A3j（第j列）A为代数余子式</p>
+</li>
+<li>
+<p>多个AorM，相当于7的逆运用</p>
+</li>
+<li>
+<p>判断方程的解</p>
+<p>参考来源：猿博士</p>
+</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无机笔记]]></title>
+        <id>https://Nhgcdpoiu.github.io/post/wu-ji-bi-ji/</id>
+        <link href="https://Nhgcdpoiu.github.io/post/wu-ji-bi-ji/">
+        </link>
+        <updated>2021-03-10T14:33:49.000Z</updated>
+        <content type="html"><![CDATA[<p><em>绪论</em><br>
+通常说：化学研究物质的<strong>组成</strong>，<strong>结构</strong>，<strong>性质</strong>与<strong>变化</strong>的规律。（说法过于宽泛）<br>
+化学研究的是<strong>化学物质</strong><br>
+微观上，化学物质的最低层次是原子，比原子高一层次的化学物质是原子以<strong>强相互作用力</strong>（通称<strong>化学键</strong>）相互结合形成的<strong>原子聚合体</strong>，单独存在de原子和所有原子聚集体都称为”<strong>分子</strong>“。人们所说的”分子层次“de分子即此意，本质上是<strong>核-电子体系</strong><br>
+原子与分子之间的物质层次称为<strong>亚分子层次</strong>。比分子高de称为<strong>超分子</strong>（分子由<strong>弱相互作用力</strong>自组装成某种高级结构）<br>
+<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306212232.png" alt="" loading="lazy"></p>
+<p>未完。。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tweets]]></title>
+        <id>https://Nhgcdpoiu.github.io/post/tweets/</id>
+        <link href="https://Nhgcdpoiu.github.io/post/tweets/">
+        </link>
+        <updated>2021-03-10T14:28:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>some wechat tweets experience</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>some wechat tweets experience</p>
+<!-- more -->
+<p><strong>前言</strong><br>
+为防止自己忘记（老了），记录一些写推文的技巧。</p>
+<p><strong>准备工作</strong><br>
+<a href="https://xiumi.us/" target="_blank"><em>秀米</em></a> ，图片，文案，公众号</p>
+<p><strong>基本排版</strong></p>
+<ol>
+<li>
+<p>标题，概括整体即可<br>
+摘要，对文章的一个要点概括or解释</p>
+</li>
+<li>
+<p>正文，<br>
+蓝字关注</p>
+</li>
+<li>
+<p>结尾</p>
+</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mind map of Inorganic Chemistry]]></title>
         <id>https://Nhgcdpoiu.github.io/post/wu-ji-dao-tu/</id>
