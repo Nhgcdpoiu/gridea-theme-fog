@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nhgcdpoiu.github.io</id>
     <title>Hundred06&apos;s Blog</title>
-    <updated>2021-03-25T04:08:27.834Z</updated>
+    <updated>2021-03-26T14:43:39.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nhgcdpoiu.github.io"/>
     <link rel="self" href="https://Nhgcdpoiu.github.io/atom.xml"/>
@@ -48,15 +48,13 @@
                    这是一个登入模板（>_<!）]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Determinant ]]></title>
+        <title type="html"><![CDATA[Linear Algebra]]></title>
         <id>https://Nhgcdpoiu.github.io/post/xing-lie-shi/</id>
         <link href="https://Nhgcdpoiu.github.io/post/xing-lie-shi/">
         </link>
         <updated>2021-03-13T09:24:48.000Z</updated>
-        <summary type="html"><![CDATA[<p>rows and columns</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>rows and columns</p>
-<!-- more -->
+        <content type="html"><![CDATA[<p>**Determinant **<br>
+rows and columns</p>
 <ol>
 <li>
 <p>主对角-负对角</p>
@@ -109,7 +107,8 @@ D=a1j·A1j+a2j·A2j+a3j·A3j+······+a3j·A3j（第j列）A为代数余子�
 </tr>
 </tbody>
 </table>
-<p>参考来源：猿博士</p>
+<p>参考来源：猿博士<br>
+1.</p>
 ]]></content>
     </entry>
     <entry>
