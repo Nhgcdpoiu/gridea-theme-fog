@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nhgcdpoiu.github.io</id>
     <title>Hundred06&apos;s Blog</title>
-    <updated>2021-04-14T18:26:57.174Z</updated>
+    <updated>2021-04-14T18:48:20.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nhgcdpoiu.github.io"/>
     <link rel="self" href="https://Nhgcdpoiu.github.io/atom.xml"/>
@@ -134,11 +134,14 @@ rows and columns</p>
 <p>余子式与代数余子式（去掉对应行列得余子式，余子式*【-1】^【r+c】得代数余子式）</p>
 </li>
 <li>
-<p>D=ai1·Ai1+ai2·Ai2+ai3·Ai3+······+ain·Ain（第i行）A为代数余子式<br>
+<p>D=ai1·Ai1+ai2·Ai2+ai3·Ai3+······+ain·Ain（第i行）A为代数余子式i<br>
 D=a1j·A1j+a2j·A2j+a3j·A3j+······+a3j·A3j（第j列）A为代数余子式</p>
 </li>
 <li>
 <p>多个AorM，相当于7的逆运用</p>
+</li>
+<li>
+<p>克莱姆:n个方程个未知量&amp;&amp;D！=0 ······&gt;Xj=Dj/D,（其中Dj=行列式常数列替换j列）</p>
 </li>
 <li>
 <p>判断方程的解</p>
@@ -155,12 +158,12 @@ D=a1j·A1j+a2j·A2j+a3j·A3j+······+a3j·A3j（第j列）A为代数余子�
 <tbody>
 <tr>
 <td style="text-align:center">齐次</td>
-<td style="text-align:center">onlyone   零解</td>
+<td style="text-align:center">仅一  零解</td>
 <td style="text-align:center">零and非零解</td>
 </tr>
 <tr>
 <td style="text-align:center">非齐次</td>
-<td style="text-align:center">onlyone   非零解</td>
+<td style="text-align:center">仅一  非零解</td>
 <td style="text-align:center">多or无解</td>
 </tr>
 </tbody>
