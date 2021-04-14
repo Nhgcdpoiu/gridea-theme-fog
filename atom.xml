@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nhgcdpoiu.github.io</id>
     <title>Hundred06&apos;s Blog</title>
-    <updated>2021-04-06T15:34:54.832Z</updated>
+    <updated>2021-04-14T18:26:57.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nhgcdpoiu.github.io"/>
     <link rel="self" href="https://Nhgcdpoiu.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://Nhgcdpoiu.github.io/images/avatar.png</logo>
     <icon>https://Nhgcdpoiu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Hundred06&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[youji]]></title>
+        <id>https://Nhgcdpoiu.github.io/post/youji/</id>
+        <link href="https://Nhgcdpoiu.github.io/post/youji/">
+        </link>
+        <updated>2021-04-08T14:20:37.000Z</updated>
+        <content type="html"><![CDATA[<p>..</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[pictures]]></title>
         <id>https://Nhgcdpoiu.github.io/post/pictures/</id>
@@ -157,8 +166,29 @@ D=a1j·A1j+a2j·A2j+a3j·A3j+······+a3j·A3j（第j列）A为代数余子�
 </tbody>
 </table>
 <p>----------------分割线----------------</p>
+<p>克莱姆？？？</p>
 <ol>
-<li></li>
+<li>
+<p>矩阵的加减（一一对应相加减）</p>
+</li>
+<li>
+<p>矩阵的乘法（前行乘后列，建议用横的x竖的可简化运算；前面几行结果就有几行，列同理）(无交换律AB != BA;无除法AX=AY !==&gt; X=Y;[AB]^K != A<sup>K*B</sup>K 不一定成立；A<sup>2+2AB+B</sup>2 !=[A+B]^2 .BUT.A<sup>2+2AE+E</sup>n=[A+E]^2 )</p>
+</li>
+<li>
+<p>矩阵的绝对值  |A|=取行列式（|入A|=入^n|A|）</p>
+</li>
+<li>
+<p>转置  A<sup>T=rc交换;（AB）</sup>T= B<sup>T*A</sup>T ;|A^T|=|A|</p>
+</li>
+<li>
+<p>证明矩阵可逆: 【矩阵A为方阵即r=c】   &amp;&amp;   【|A|！=0   ||    存在方阵B，AB=E or BA=E】</p>
+</li>
+<li>
+<p>求逆矩阵：(A:E)-------&gt;(E:A^-1) ; A·A^-1=E || A^-1·A=E ; A·A*=|A|E  ;(三个公式可解含A *A^-1的矩阵方程)</p>
+</li>
+<li>
+<p>求矩阵的秩  表示：R（B）=2  ；化简为下行0多于上行0的形式（中间0个数不可相等，除非以下全为0.最后不一定全为0，下0多于上0即可）</p>
+</li>
 <li></li>
 </ol>
 <p>参考来源：猿博士</p>
@@ -335,65 +365,6 @@ Best wishs for your success!</p>
 <p>https://www.minecraftzw.com/554.html<br>
 https://www.52pojie.cn/thread-1219972-1-1.html two web download pcl for MineCraft<br>
 https://www.mcbbs.net/forum.php  <a href="https://www.mcbbs.net/forum.php " target="_blank"><em>MC Forum</em></a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bulid a Blog]]></title>
-        <id>https://Nhgcdpoiu.github.io/post/bo-ke-da-jian/</id>
-        <link href="https://Nhgcdpoiu.github.io/post/bo-ke-da-jian/">
-        </link>
-        <updated>2021-02-22T08:41:08.000Z</updated>
-        <summary type="html"><![CDATA[<p>纯白嫖式建站</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>纯白嫖式建站</p>
-<!-- more -->
-<p><strong><strong>前言</strong></strong></p>
-<p>ps：本文适合纯小白</p>
-<p>     前些天看到一朋友搭建了自己的博客，心血来潮，也想搞一个（闲得慌），于是就有了这篇文章。<br>
-网上教程极其之多（暗示大佬们请忽视这篇文章）。</p>
-<p><strong>搭建方法</strong></p>
-<ol>
-<li>
-<p>服务器+控制台+面板+数据库+wordpress，<br>
-优点：动态blog，具移动客户端，随时写作</p>
-</li>
-<li>
-<p>通过github+GitHub pages+hexo或Jekyll或huge等，<br>
-优点：可定制性强，无数据库，全程免费。</p>
-</li>
-<li>
-<p>第三方平台，wix,sxl,凡科等<br>
-优点：不用任何基础<br>
-BUT  &gt;&gt;&gt;as a 学生党（白嫖怪），<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/1614015985749.jpg" alt="" loading="lazy"></p>
-</li>
-</ol>
-<p>AND &gt;&gt;&gt;人类进步当然得偷懒，<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/1614183067582(1)(1).jpg" alt="" loading="lazy"><br>
-SO &gt;&gt;&gt;有了gridea，鱼和熊掌兼得乎！<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/1614183083448.jpg" alt="" loading="lazy"></p>
-<p><strong>搭建</strong></p>
-<ol>
-<li>域名（Domain Name），是由一串用点分隔的名字组成的Internet上某一台计算机或计算机组的名称，用于在数据传输时标识计算机的电子方位（有时也指地理位置，地理上的域名，指代有行政自主权的一个地方区域）。可以购买域名的网站很多，github.io 属于二级域名是由github免费提供的。<br>
-<a href="https://my.freenom.com" target="_blank"><em>freenom</em></a> 是一个可注册免费域名的网站。当然，买的域名肯定更好而且也并不贵。</li>
-<li><a href="https://github.com/" target="_blank"><em>注册github</em></a><br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210227220710.png" alt="" loading="lazy"></li>
-<li>创建GitHub仓库（Repository）<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210227220826.png" alt="" loading="lazy"><br>
-建议仓库名为username.github.io。</li>
-<li>创建令牌（token），勾选rope权限<br>
-点击头像进入个人界面，选择开发人员设置(Developer settings)，点击个人访问令牌（personal access tokens）,创建新令牌，勾选rope权限。<br>
-新建的token建议保存，关闭这个界面后就看不到了。<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210227220925.png" alt="" loading="lazy"></li>
-<li><a href="https://gridea.dev/" target="_blank"><em>gridea</em></a><br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210227221732.png" alt="" loading="lazy"></li>
-<li>配置gridea<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210227221912.png" alt="" loading="lazy"><br>
-域名填写网站源地址，分支master，邮箱为创建GitHub时的邮箱，粘贴上令牌，cname则是你买的域名或在free.nom创建的。保存后检测远程连接，这布好后就可以开始使用，点击预览查看本地渲染效果。</li>
-<li>加速cloudfare</li>
-</ol>
-<p><strong>一些操作</strong>（本白当初是操作都不会┗┃・ ■ ・┃┛）</p>
-<p>主要是<a href="https://gridea.dev//themes" target="_blank"><em>下载gridea主题</em></a> 及创造图床 (<a href="https://github.com/Molunerfinn/PicGo/releases" target="_blank"><em>picgo</em></a>是一个用于快速上传图片并获取图片URL链接的工具，目前支持微博图床、七牛图床、腾讯云、又拍云、GitHub、阿里云、Imgur等图床)</p>
 ]]></content>
     </entry>
 </feed>
