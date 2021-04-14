@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nhgcdpoiu.github.io</id>
     <title>Hundred06&apos;s Blog</title>
-    <updated>2021-04-14T18:48:20.665Z</updated>
+    <updated>2021-04-14T18:53:38.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nhgcdpoiu.github.io"/>
     <link rel="self" href="https://Nhgcdpoiu.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://Nhgcdpoiu.github.io/images/avatar.png</logo>
     <icon>https://Nhgcdpoiu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Hundred06&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[SO2   VS  SO3 ]]></title>
+        <id>https://Nhgcdpoiu.github.io/post/so2-vs-so3/</id>
+        <link href="https://Nhgcdpoiu.github.io/post/so2-vs-so3/">
+        </link>
+        <updated>2021-04-14T18:48:47.000Z</updated>
+        <content type="html"><![CDATA[<p>WAIT</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[youji]]></title>
         <id>https://Nhgcdpoiu.github.io/post/youji/</id>
@@ -307,67 +316,6 @@ tampermonkey俗称油猴，油猴是一款免费实用且强悍的浏览器插�
 Step 5<br>
 开刷<br>
 <img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210303223301.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JAVA ->HelloWorld]]></title>
-        <id>https://Nhgcdpoiu.github.io/post/java-greaterhelloworld/</id>
-        <link href="https://Nhgcdpoiu.github.io/post/java-greaterhelloworld/">
-        </link>
-        <updated>2021-02-24T16:30:17.000Z</updated>
-        <content type="html"><![CDATA[<p>Java  HelloWorld<br>
-Step 1<br>
-Enter  <a href="https://www.oracle.com/cn/downloads/ " target="_blank"><em>oracle</em></a> or other web download java64<br>
-Ps :remember your download address,you’d better download java into a independence hard disk.</p>
-<p>Step2<br>
-Configure environment variables</p>
-<p>Right click “我的电脑”+R,</p>
-<p>Then popup a window like this<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210301222056.png" alt="" loading="lazy"></p>
-<p>Click “高级系统设置”+N<br>
-Popup<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210301222148.png" alt="" loading="lazy"></p>
-<p>Now you need add something and change something</p>
-<p>First<br>
-Add a home for java<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210301222221.png" alt="" loading="lazy"></p>
-<p>D:\Java\jdk-15.0.2    &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;this is my java download address,you should write down your address</p>
-<p>Second<br>
-Find your “path”，set a “%JAVA_HOME%\bin”before all environment<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210301222302.png" alt="" loading="lazy"></p>
-<p>Third<br>
-Set a new environment called “CLASSPATH”<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210301222332.png" alt="" loading="lazy"></p>
-<p>.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar;</p>
-<p>Ps :Don’t forget click “确定”</p>
-<p>If win+R，input cmd input java -version,<br>
-Then input javac<br>
-If there is no such interface,it will not succeed.<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210301222404.png" alt="" loading="lazy"></p>
-<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210301222505.png" alt="" loading="lazy"></figure>
-<p>Step3<br>
-Make a code of it<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210301222543.png" alt="" loading="lazy"></p>
-<p>（public class HelloWorld  {<br>
-public static void main(String[] args) {<br>
-System.out.println(&quot;Hello World!&quot;);<br>
-}<br>
-}）<br>
-Change its txt into java<br>
-Like this<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210301222610.png" alt="" loading="lazy"><br>
-Step4<br>
-Operate<br>
-Once you’ve done step3<br>
-Win+R,input “cmd”,input javac +your helloworld address<br>
-A “class” file would automatically arise with your java file<br>
-Then input java +your file name<br>
-If<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210301222741.png" alt="" loading="lazy"><br>
-Best wishs for your success!</p>
-<p>https://www.minecraftzw.com/554.html<br>
-https://www.52pojie.cn/thread-1219972-1-1.html two web download pcl for MineCraft<br>
-https://www.mcbbs.net/forum.php  <a href="https://www.mcbbs.net/forum.php " target="_blank"><em>MC Forum</em></a></p>
 ]]></content>
     </entry>
 </feed>
