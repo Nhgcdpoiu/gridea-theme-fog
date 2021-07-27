@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nhgcdpoiu.github.io</id>
     <title>Hundred06&apos;s Blog</title>
-    <updated>2021-05-17T13:49:14.027Z</updated>
+    <updated>2021-07-27T12:05:15.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nhgcdpoiu.github.io"/>
     <link rel="self" href="https://Nhgcdpoiu.github.io/atom.xml"/>
@@ -10,26 +10,6 @@
     <logo>https://Nhgcdpoiu.github.io/images/avatar.png</logo>
     <icon>https://Nhgcdpoiu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Hundred06&apos;s Blog</rights>
-    <entry>
-        <title type="html"><![CDATA[有机化学之命名大法好]]></title>
-        <id>https://Nhgcdpoiu.github.io/post/you-ji-hua-xue-zhi-ming-ming-da-fa-hao/</id>
-        <link href="https://Nhgcdpoiu.github.io/post/you-ji-hua-xue-zhi-ming-ming-da-fa-hao/">
-        </link>
-        <updated>2021-05-17T13:43:08.000Z</updated>
-        <content type="html"><![CDATA[<p>命名大法之<strong>系统命名法</strong></p>
-<ol>
-<li>
-<p><strong>烷烃</strong></p>
-</li>
-<li>
-<p><strong>烯烃 炔烃</strong></p>
-</li>
-<li>
-<p><strong>脂环烃</strong></p>
-</li>
-</ol>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[2018 的夏天]]></title>
         <id>https://Nhgcdpoiu.github.io/post/2018-de-xia-tian/</id>
@@ -217,12 +197,33 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[有机化学]]></title>
+        <title type="html"><![CDATA[ 有机化学]]></title>
         <id>https://Nhgcdpoiu.github.io/post/you-ji-hua-xue/</id>
         <link href="https://Nhgcdpoiu.github.io/post/you-ji-hua-xue/">
         </link>
         <updated>2021-03-25T04:05:06.000Z</updated>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210325120634.jpg" alt="" loading="lazy"></figure>
+]]></summary>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210325120634.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
+<p>    <br>
+    <br>
+    <br>
+    </p>
+<hr>
+<p>    <br>
+    <br>
+    <br>
+    </p>
+<center>基于比站有机化学李艳梅老师的网课及李景宁主编有机化学整理的一份笔记<center/>
+<!-- more -->
+   &nbsp;&nbsp;&nbsp;&nbsp; 
+    &nbsp;&nbsp;&nbsp;&nbsp; 
+<center>
+<p><strong>1.有机上</strong></p>
+<center/>
+<figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210727194534.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
@@ -399,6 +400,22 @@ D=a1j·A1j+a2j·A2j+a3j·A3j+······+a3j·A3j（第j列）A为代数余子�
 <p><strong>上手细节</strong></p>
 <p>蓝字关注，宜采用跟正文配色搭的格式</p>
 <p>文案，在最开始时设好基础格式（正文15标题17注释13，默认字体颜色灰or黑，行2.0-2.5，字间0.5/1.5/2.5，段间0，页距10，大段文两端对齐，零散文左中右皆可各图文间一个空格）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mind map of Inorganic Chemistry]]></title>
+        <id>https://Nhgcdpoiu.github.io/post/wu-ji-dao-tu/</id>
+        <link href="https://Nhgcdpoiu.github.io/post/wu-ji-dao-tu/">
+        </link>
+        <updated>2021-03-05T17:16:37.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306212111.png" target="_blank"><em>无机大纲</em></a><br>
+<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306212111.png" alt="" loading="lazy"></p>
+<p><a href="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306212232.png" target="_blank"><em>物质结构基础</em></a><br>
+<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306212232.png" alt="" loading="lazy"></p>
+<p><a href="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306213655.png" target="_blank"><em>化学热力学与化学动力学基础</em></a><br>
+<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306213655.png" alt="" loading="lazy"><br>
+<a href="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306212846.png" target="_blank"><em>水溶液化学原理</em></a><br>
+<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306212846.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
