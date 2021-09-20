@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nhgcdpoiu.github.io</id>
     <title>Hundred06&apos;s Blog</title>
-    <updated>2021-09-20T06:54:36.783Z</updated>
+    <updated>2021-09-20T07:01:08.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nhgcdpoiu.github.io"/>
     <link rel="self" href="https://Nhgcdpoiu.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://Nhgcdpoiu.github.io/images/avatar.png</logo>
     <icon>https://Nhgcdpoiu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Hundred06&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[新闻稿]]></title>
+        <id>https://Nhgcdpoiu.github.io/post/xin-wen-gao/</id>
+        <link href="https://Nhgcdpoiu.github.io/post/xin-wen-gao/">
+        </link>
+        <updated>2021-09-20T06:56:11.000Z</updated>
+        <summary type="html"><![CDATA[<p>一些新闻稿笔记</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>一些新闻稿笔记</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[影]]></title>
         <id>https://Nhgcdpoiu.github.io/post/ying/</id>
@@ -408,47 +420,6 @@ D=a1j·A1j+a2j·A2j+a3j·A3j+······+a3j·A3j（第j列）A为代数余子�
 原子与分子之间的物质层次称为<strong>亚分子层次</strong>。比分子高de称为<strong>超分子</strong>（分子由<strong>弱相互作用力</strong>自组装成某种高级结构）<br>
 <img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306212232.png" alt="" loading="lazy"></p>
 <p>未完。。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tweets]]></title>
-        <id>https://Nhgcdpoiu.github.io/post/tweets/</id>
-        <link href="https://Nhgcdpoiu.github.io/post/tweets/">
-        </link>
-        <updated>2021-03-10T14:28:59.000Z</updated>
-        <summary type="html"><![CDATA[<p>some wechat tweets experience</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>some wechat tweets experience</p>
-<!-- more -->
-<p><strong>前言</strong></p>
-<p>在老学长出差前之际，终于从培训会上获得真传（之前培训都没去qaq），为防止自己忘记（老了），记录一些写推文的技巧。</p>
-<p><strong>准备工作</strong></p>
-<p>主题   校园事件和师生关注点有周期性和持续性/挖掘重点群体的故事/把我敏感时刻和词汇/挖掘同学们身边一些悉细腻的东西</p>
-<p>图文软件   <a href="https://xiumi.us/" target="_blank"><em>秀米</em></a> or135 or i排版（这以秀米为例）</p>
-<p>图片   技艺高超de摄影师+批图师（优秀de摄影师从不pi）</p>
-<p>文案    国内/外 古/今 散文/诗歌/小说/名句+想象力丰富的大脑（得能编）</p>
-<p>公众号   申请一个（不是很了解）或用现有的（本编用的学校的）</p>
-<p><strong>基本排版</strong></p>
-<ol>
-<li>
-<p>标题，概括整体即可（标题党效果更佳）<br>
-摘要，对文章的一个要点概括or解释</p>
-</li>
-<li>
-<p>正文，蓝字关注+文案+图片+表情包+space+分割线（可不加）</p>
-</li>
-<li>
-<p>结尾，二维码or编者信息</p>
-</li>
-</ol>
-<p><strong>排版要求</strong>（照搬过来的）</p>
-<p>除庄重活动外，样式尽量活泼有趣</p>
-<p>做活动预热微信推送的目的是扩大宣传</p>
-<p>不要只是照抄策划书，要自己想切入点</p>
-<p>活动微信，不要只是等新闻稿</p>
-<p><strong>上手细节</strong></p>
-<p>蓝字关注，宜采用跟正文配色搭的格式</p>
-<p>文案，在最开始时设好基础格式（正文15标题17注释13，默认字体颜色灰or黑，行2.0-2.5，字间0.5/1.5/2.5，段间0，页距10，大段文两端对齐，零散文左中右皆可各图文间一个空格）</p>
 ]]></content>
     </entry>
 </feed>
