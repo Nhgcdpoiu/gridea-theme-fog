@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nhgcdpoiu.github.io</id>
     <title>Hundred06&apos;s Blog</title>
-    <updated>2021-09-22T05:31:38.165Z</updated>
+    <updated>2021-09-22T05:34:28.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nhgcdpoiu.github.io"/>
     <link rel="self" href="https://Nhgcdpoiu.github.io/atom.xml"/>
@@ -125,16 +125,6 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2018 的夏天]]></title>
-        <id>https://Nhgcdpoiu.github.io/post/2018-de-xia-tian/</id>
-        <link href="https://Nhgcdpoiu.github.io/post/2018-de-xia-tian/">
-        </link>
-        <updated>2021-05-15T11:34:29.000Z</updated>
-        <content type="html"><![CDATA[<p>怀念<a href="https://www.zhihu.com/question/386433175" target="_blank"><em>2018 的夏天</em></a></p>
-<p>来源：知乎</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[新海城]]></title>
         <id>https://Nhgcdpoiu.github.io/post/xin-hai-cheng/</id>
         <link href="https://Nhgcdpoiu.github.io/post/xin-hai-cheng/">
@@ -242,26 +232,6 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SO2   VS  SO3 ]]></title>
-        <id>https://Nhgcdpoiu.github.io/post/so2-vs-so3/</id>
-        <link href="https://Nhgcdpoiu.github.io/post/so2-vs-so3/">
-        </link>
-        <updated>2021-04-14T18:48:47.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210417212603.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210417214655.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210417215225.jpg" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210417214344.jpg" alt="" loading="lazy"><br>
-<img src="" alt="" loading="lazy"><br>
-<img src="" alt="" loading="lazy"><br>
-<img src="" alt="" loading="lazy"><br>
-<img src="" alt="" loading="lazy"></p>
-<ol>
-<li></li>
-<li></li>
-</ol>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[pictures]]></title>
         <id>https://Nhgcdpoiu.github.io/post/pictures/</id>
         <link href="https://Nhgcdpoiu.github.io/post/pictures/">
@@ -328,34 +298,6 @@
 <li></li>
 </ol>
 ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sd]]></title>
-        <id>https://Nhgcdpoiu.github.io/post/sd/</id>
-        <link href="https://Nhgcdpoiu.github.io/post/sd/">
-        </link>
-        <updated>2021-03-14T03:40:23.000Z</updated>
-        <content type="html"><![CDATA[<!DOCTYPE html>  
-<html lang="en">  
-<head> 
-  <meta charset="UTF-8">  
-   <title>Login</title> 
-     <link rel="stylesheet" type="text/css" href="Login.css"/>
-       </head>  
-       <body>  
-        <p id="login">  
-         <h1>Login</h1>
-            <form method="post">  
-             <input type="text" required="required" placeholder="用户名" name="u">
-             </input>  
-              <input type="password" required="required" placeholder="密码" name="p">
-              </input> 
-                <button class="but" type="submit">登录</button>  
-                 </form>   
-                 </p>
-                   </body>  
-                   </html>
-                   这是一个登入模板（>_<!）]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Linear Algebra]]></title>
@@ -462,6 +404,103 @@ D=a1j·A1j+a2j·A2j+a3j·A3j+······+a3j·A3j（第j列）A为代数余子�
 原子与分子之间的物质层次称为<strong>亚分子层次</strong>。比分子高de称为<strong>超分子</strong>（分子由<strong>弱相互作用力</strong>自组装成某种高级结构）<br>
 <img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306212232.png" alt="" loading="lazy"></p>
 <p>未完。。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tweets]]></title>
+        <id>https://Nhgcdpoiu.github.io/post/tweets/</id>
+        <link href="https://Nhgcdpoiu.github.io/post/tweets/">
+        </link>
+        <updated>2021-03-10T14:28:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>some wechat tweets experience</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>some wechat tweets experience</p>
+<!-- more -->
+<p><strong>前言</strong></p>
+<p>在老学长出差前之际，终于从培训会上获得真传（之前培训都没去qaq），为防止自己忘记（老了），记录一些写推文的技巧。</p>
+<p><strong>准备工作</strong></p>
+<p>主题   校园事件和师生关注点有周期性和持续性/挖掘重点群体的故事/把我敏感时刻和词汇/挖掘同学们身边一些悉细腻的东西</p>
+<p>图文软件   <a href="https://xiumi.us/" target="_blank"><em>秀米</em></a> or135 or i排版（这以秀米为例）</p>
+<p>图片   技艺高超de摄影师+批图师（优秀de摄影师从不pi）</p>
+<p>文案    国内/外 古/今 散文/诗歌/小说/名句+想象力丰富的大脑（得能编）</p>
+<p>公众号   申请一个（不是很了解）或用现有的（本编用的学校的）</p>
+<p><strong>基本排版</strong></p>
+<ol>
+<li>
+<p>标题，概括整体即可（标题党效果更佳）<br>
+摘要，对文章的一个要点概括or解释</p>
+</li>
+<li>
+<p>正文，蓝字关注+文案+图片+表情包+space+分割线（可不加）</p>
+</li>
+<li>
+<p>结尾，二维码or编者信息</p>
+</li>
+</ol>
+<p><strong>排版要求</strong>（照搬过来的）</p>
+<p>除庄重活动外，样式尽量活泼有趣</p>
+<p>做活动预热微信推送的目的是扩大宣传</p>
+<p>不要只是照抄策划书，要自己想切入点</p>
+<p>活动微信，不要只是等新闻稿</p>
+<p><strong>上手细节</strong></p>
+<p>蓝字关注，宜采用跟正文配色搭的格式</p>
+<p>文案，在最开始时设好基础格式（正文15标题17注释13，默认字体颜色灰or黑，行2.0-2.5，字间0.5/1.5/2.5，段间0，页距10，大段文两端对齐，零散文左中右皆可各图文间一个空格）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mind map of Inorganic Chemistry]]></title>
+        <id>https://Nhgcdpoiu.github.io/post/wu-ji-dao-tu/</id>
+        <link href="https://Nhgcdpoiu.github.io/post/wu-ji-dao-tu/">
+        </link>
+        <updated>2021-03-05T17:16:37.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306212111.png" target="_blank"><em>无机大纲</em></a><br>
+<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306212111.png" alt="" loading="lazy"></p>
+<p><a href="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306212232.png" target="_blank"><em>物质结构基础</em></a><br>
+<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306212232.png" alt="" loading="lazy"></p>
+<p><a href="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306213655.png" target="_blank"><em>化学热力学与化学动力学基础</em></a><br>
+<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306213655.png" alt="" loading="lazy"><br>
+<a href="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306212846.png" target="_blank"><em>水溶液化学原理</em></a><br>
+<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306212846.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAMPER MONKEY]]></title>
+        <id>https://Nhgcdpoiu.github.io/post/tamper-monkey/</id>
+        <link href="https://Nhgcdpoiu.github.io/post/tamper-monkey/">
+        </link>
+        <updated>2021-03-03T13:24:30.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>tamper monkey 简介</li>
+</ol>
+<p>油猴脚本是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。</p>
+<p>扩展资料：<br>
+tampermonkey俗称油猴，油猴是一款免费实用且强悍的浏览器插件，它可以实现各种意想不到的功能。如观看VIP电影、解除网页防止复制粘贴功能、直接下载云盘大文件、自定义网盘分享密码、下载微软官网隐藏的ISO系统镜像等等。</p>
+<p>教程：</p>
+<p>Step 0</p>
+<p>备一个浏览器，以edge为例</p>
+<p>Step 1</p>
+<p>找到右上角的三个点点，选择拓展<br>
+<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210303221939.png" alt="" loading="lazy"></p>
+<p>可以看到有一个获取拓展de超链。<br>
+<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210303222220.png" alt="" loading="lazy"></p>
+<p>这时直接搜索tampermonkey,获取即可<br>
+<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210303222324.png" alt="" loading="lazy"></p>
+<p>Step 2</p>
+<p>下载tampermonkey完成后，右上角会显示你所下载的拓展，点击tampermonkey的图标，点击获取新脚本。<br>
+<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210303222559.png" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210303222448.png" alt="" loading="lazy"></p>
+<p>Step 3</p>
+<p>打开网页后直接搜对应脚本，下载你想要的，这里以学习通为例<br>
+<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210303222736.png" alt="" loading="lazy"></p>
+<p>下载，接下来只用等就行了</p>
+<p>Ps：管理面板可以看到你下载的脚本<br>
+<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210303222850.png" alt="" loading="lazy"></p>
+<p>Step 4</p>
+<p><a href="http://i.chaoxing.com/" target="_blank"><em>打开学习通界面</em></a> 登入账号<br>
+<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210303222955.png" alt="" loading="lazy"><br>
+Step 5<br>
+开刷<br>
+<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210303223301.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
