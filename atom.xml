@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nhgcdpoiu.github.io</id>
     <title>Hundred06&apos;s Blog</title>
-    <updated>2021-11-14T10:55:13.324Z</updated>
+    <updated>2021-12-09T14:50:05.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nhgcdpoiu.github.io"/>
     <link rel="self" href="https://Nhgcdpoiu.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://Nhgcdpoiu.github.io/images/avatar.png</logo>
     <icon>https://Nhgcdpoiu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Hundred06&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[教师职业理念]]></title>
+        <id>https://Nhgcdpoiu.github.io/post/jiao-shi-zhi-ye-li-nian/</id>
+        <link href="https://Nhgcdpoiu.github.io/post/jiao-shi-zhi-ye-li-nian/">
+        </link>
+        <updated>2021-12-09T14:33:56.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20211209224416.png" target="_blank"><em>教育理念</em></a><br>
+<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20211209223749.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新闻稿]]></title>
         <id>https://Nhgcdpoiu.github.io/post/xin-wen-gao/</id>
@@ -471,46 +481,6 @@ D=a1j·A1j+a2j·A2j+a3j·A3j+······+a3j·A3j（第j列）A为代数余子�
 <img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306213655.png" alt="" loading="lazy"><br>
 <a href="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306212846.png" target="_blank"><em>水溶液化学原理</em></a><br>
 <img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210306212846.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TAMPER MONKEY]]></title>
-        <id>https://Nhgcdpoiu.github.io/post/tamper-monkey/</id>
-        <link href="https://Nhgcdpoiu.github.io/post/tamper-monkey/">
-        </link>
-        <updated>2021-03-03T13:24:30.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>tamper monkey 简介</li>
-</ol>
-<p>油猴脚本是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。</p>
-<p>扩展资料：<br>
-tampermonkey俗称油猴，油猴是一款免费实用且强悍的浏览器插件，它可以实现各种意想不到的功能。如观看VIP电影、解除网页防止复制粘贴功能、直接下载云盘大文件、自定义网盘分享密码、下载微软官网隐藏的ISO系统镜像等等。</p>
-<p>教程：</p>
-<p>Step 0</p>
-<p>备一个浏览器，以edge为例</p>
-<p>Step 1</p>
-<p>找到右上角的三个点点，选择拓展<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210303221939.png" alt="" loading="lazy"></p>
-<p>可以看到有一个获取拓展de超链。<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210303222220.png" alt="" loading="lazy"></p>
-<p>这时直接搜索tampermonkey,获取即可<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210303222324.png" alt="" loading="lazy"></p>
-<p>Step 2</p>
-<p>下载tampermonkey完成后，右上角会显示你所下载的拓展，点击tampermonkey的图标，点击获取新脚本。<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210303222559.png" alt="" loading="lazy"><br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210303222448.png" alt="" loading="lazy"></p>
-<p>Step 3</p>
-<p>打开网页后直接搜对应脚本，下载你想要的，这里以学习通为例<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210303222736.png" alt="" loading="lazy"></p>
-<p>下载，接下来只用等就行了</p>
-<p>Ps：管理面板可以看到你下载的脚本<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210303222850.png" alt="" loading="lazy"></p>
-<p>Step 4</p>
-<p><a href="http://i.chaoxing.com/" target="_blank"><em>打开学习通界面</em></a> 登入账号<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210303222955.png" alt="" loading="lazy"><br>
-Step 5<br>
-开刷<br>
-<img src="https://cdn.jsdelivr.net/gh/Nhgcdpoiu/o/img/20210303223301.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
